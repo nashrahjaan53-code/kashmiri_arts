@@ -1,4 +1,4 @@
-# Kashmiri Arts - Wular AI
+# Kashmiri Arts : Wular AI
 
 A multipage React + Vite prototype for helping Kashmiri businesses grow and future-proof their work.
 
@@ -16,7 +16,7 @@ A multipage React + Vite prototype for helping Kashmiri businesses grow and futu
 - Working AI tool panels for export discovery, schemes, digital listings, climate risk, skills, and resilience
 - Bazaar Bot demo assistant with Kashmir business playbooks
 - Responsive navigation and mobile menu
-- Tailwind CSS styling with Framer Motion transitions
+- Tailwind CSS styling with Framer Motion transitions.
 
 ## Run Locally
 
@@ -28,5 +28,5 @@ npm run dev
 ## Build
 
 ```bash
-npm run build
+npm run build 
 ```
